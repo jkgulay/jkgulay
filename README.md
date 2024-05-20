@@ -1,10 +1,10 @@
 <!-- Greet Line Comes Here -->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>BSIT Student at <a href="https://www.oneorigin.us/">OneOrigin
+<p><em>BSIT Student at <a href="https://www.carsu.edu.ph/">Caraga State University
 </a>
 <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kayelonly?label=Follow)](https://twitter.com/intent/follow?screen_name=kayelonly)
