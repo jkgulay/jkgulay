@@ -37,26 +37,32 @@
 
 ---
 
-#### Trophy: Github Profile Trophy
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="Github Profile Trophy" />
-  </a>
-</p>
+<details>
+<summary>Github Stats:</summary>
 
----
-
-#### Github Stats:
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Kayel2&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
+</details>
 
 ---
 
+<details>
+<summary>Trophy: Github Profile Trophy</summary>
+  
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="Github Profile Trophy" />
+  </a>
+</p>
+
+</details>
+
+---
 
 
 <p align="center">
