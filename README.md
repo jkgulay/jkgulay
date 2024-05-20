@@ -1,8 +1,7 @@
 <!-- Greet Line Comes Here -->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hi, I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>BSIT Student at <a href="https://www.carsu.edu.ph/">Caraga State University
-</a><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png width="30"> 
+</a><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png" width="25" height="25"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kayelonly?label=Follow)](https://twitter.com/intent/follow?screen_name=kayelonly)
@@ -13,32 +12,19 @@
 
 <br>
 
-<!-- -->
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&layout=compact"/>
-<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Kayel2&&show_icons=true&bg_color=00000000" />
-
-
-
-
 
 <!-- About Me Section Here -->
 
 
-- 😄 Pronouns: **He/His**
-  
-- 🌱 I’m currently working on **Laravel Remote Method Invocation Project**
-  
-- 🏆 I'm Interested in making the world better by **PRs**
-  
-- 👨‍🎓 Studying **Information Technology**
-  
-- 💬 Ask me about **about Web Development Stuffs**
-  
-- 📫 How to reach me centmarde.campado@gmail.com
-
-<br>
-
+<p>
+  <em>
+    I am a 2nd Year undergraduate from <a href="https://www.carsu.edu.ph/"> <b>Caraga State University</b></a>.  
+   I’m passionate about full-stack web development and love creating efficient, user-friendly applications.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> sharing my knowledge, and learning from others.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> A person who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
 
 
 <br>
@@ -49,7 +35,17 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="moion" /></a>
 </p>
 
+
+
 <br>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-![Bottom_down](https://github.com/centmarde/centmarde/assets/159101935/aecdf82d-fe75-4add-9b17-9e0d5961fd8c)
+<br>
+
+<br>
+
+<p align="center"> 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&layout=compact"/>
+<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Kayel2&&show_icons=true&bg_color=00000000" />
+</p>
