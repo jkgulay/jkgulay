@@ -5,8 +5,12 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kayelonly?label=Follow)](https://twitter.com/intent/follow?screen_name=kayelonly)
+[![Facebook Badge](https://img.shields.io/badge/-kayel-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Kayel.Gulay)](https://www.facebook.com/Kayel.Gulay)
+[![Instagram Badge](https://img.shields.io/badge/-@katzuukii-white?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/katzuukii/)](https://www.instagram.com/katzuukii/) 
+[![Gmail Badge](https://img.shields.io/badge/-gulayjunkyle-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gulayjunkyle@gmail.com)](mailto:gulayjunkyle@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/Kayel2?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Kayel2.Kayel2)
+
 
 
 
@@ -31,6 +35,8 @@
   </em>  
 </p>
 
+---
+
 #### Trophy: Github Profile Trophy
 
 <p align="center"> 
@@ -39,14 +45,19 @@
   </a>
 </p>
 
-<br>
+---
 
-<p align="center"> 
-  <img alt="Top Languages" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&layout=compact"/>
-  <img alt="Github Stats" align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kayel2&&show_icons=true&bg_color=00000000" />
+#### Github Stats:
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Kayel2&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
 </p>
 
-<br>
+---
+
+
 
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
