@@ -1,5 +1,5 @@
 <!-- Greet Line Comes Here -->
-<h2>Hi, I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 <p><em>BSIT Student at <a href="https://www.carsu.edu.ph/">Caraga State University
 </a><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png" width="25" height="25"> 
 </em></p>
