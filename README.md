@@ -53,10 +53,12 @@
 
 <details>
 <summary>Trophy: Github Profile Trophy</summary>
-  
+
+<br>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="Github Profile Trophy" />
+    <img alig src="https://github-profile-trophy.vercel.app/?username=Kayel2&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=apprentice" />
   </a>
 </p>
 
