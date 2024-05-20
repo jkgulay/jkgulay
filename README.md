@@ -3,7 +3,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>BSIT Student at <a href="https://www.carsu.edu.ph/">Caraga State University
 </a>
-<br>
 <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png width="30"> 
 </em></p>
 
@@ -12,7 +11,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Kayel2?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Kayel2.Kayel20)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 
 
@@ -29,8 +27,6 @@
 
 <!-- About Me Section Here -->
 
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 😄 Pronouns: **He/His**
   
