@@ -31,27 +31,23 @@
   </em>  
 </p>
 
-
-
-<br>
-
 #### Trophy: Github Profile Trophy
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="moion" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kayel2&row=1&column=9" alt="Github Profile Trophy" />
+  </a>
 </p>
-
-
-
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
 
 <br>
 
 <p align="center"> 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&layout=compact"/>
-<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Kayel2&&show_icons=true&bg_color=00000000" />
+  <img alt="Top Languages" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&layout=compact"/>
+  <img alt="Github Stats" align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kayel2&&show_icons=true&bg_color=00000000" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 </p>
