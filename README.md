@@ -22,7 +22,7 @@
 
 <p>
   <em>
-    I am a 2nd-year undergraduate from <a href="https://www.carsu.edu.ph/"><b>Caraga State University</b></a>.  
+    I am a 3rd-year undergraduate from <a href="https://www.carsu.edu.ph/"><b>Caraga State University</b></a>.  
     I’m passionate about full-stack web development and love creating efficient, user-friendly applications 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. 
     I enjoy sharing my knowledge and learning from others 
