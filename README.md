@@ -8,8 +8,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-kayel-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Kayel.Gulay)](https://www.facebook.com/Kayel.Gulay)
 [![Instagram Badge](https://img.shields.io/badge/-@katzuukii-white?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/katzuukii/)](https://www.instagram.com/katzuukii/) 
 [![Gmail Badge](https://img.shields.io/badge/-gulayjunkyle-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gulayjunkyle@gmail.com)](mailto:gulayjunkyle@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/Kayel2?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Kayel2.Kayel2)
+![GitHub followers](https://img.shields.io/github/followers/jkgulay?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=jkgulay.jkgulay)
 
 
 
@@ -43,8 +43,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayel2&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayel2&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkgulay&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkgulay&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 </details>
@@ -58,7 +58,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alig src="https://github-profile-trophy.vercel.app/?username=Kayel2&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=apprentice" />
+    <img alig src="https://github-profile-trophy.vercel.app/?username=jkgulay&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=apprentice" />
   </a>
 </p>
 
