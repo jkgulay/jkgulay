@@ -9,8 +9,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@katzuukii-white?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/katzuukii/)](https://www.instagram.com/katzuukii/) 
 [![Gmail Badge](https://img.shields.io/badge/-gulayjunkyle-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gulayjunkyle@gmail.com)](mailto:gulayjunkyle@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/jkgulay?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=jkgulay.jkgulay)
-
 
 
 
