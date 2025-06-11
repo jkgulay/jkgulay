@@ -1,70 +1,106 @@
-<!-- Greet Line Comes Here -->
-<h2>Hi, I'm Jun Kyle Gulay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
-<p><em>BSIT Student at <a href="https://www.carsu.edu.ph/">Caraga State University
-</a><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Caraga_State_University.png" width="25" height="25"> 
-</em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/kayelonly?label=Follow)](https://twitter.com/intent/follow?screen_name=kayelonly)
-[![Facebook Badge](https://img.shields.io/badge/-kayel-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Kayel.Gulay)](https://www.facebook.com/Kayel.Gulay)
-[![Instagram Badge](https://img.shields.io/badge/-@katzuukii-white?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/katzuukii/)](https://www.instagram.com/katzuukii/) 
-[![Gmail Badge](https://img.shields.io/badge/-gulayjunkyle-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gulayjunkyle@gmail.com)](mailto:gulayjunkyle@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/jkgulay?label=Follow&style=social)
-
-
-
-<br>
-
-
-<!-- About Me Section Here -->
-
-
-<p>
-  <em>
-    I am a 3rd-year undergraduate from <a href="https://www.carsu.edu.ph/"><b>Caraga State University</b></a>.  
-    I’m passionate about full-stack web development and love creating efficient, user-friendly applications 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. 
-    I enjoy sharing my knowledge and learning from others 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">. 
-    I am a person who is <b>obsessed</b> with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
-    <b>excel</b> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
-  </em>  
-</p>
-
----
-
-
-<details>
-<summary>Github Stats:</summary>
-
-<p align="center">
+<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jkgulay&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkgulay&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-
-</p>
-</details>
-
----
-
-<details>
-<summary>Trophy: Github Profile Trophy</summary>
-
-<br>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alig src="https://github-profile-trophy.vercel.app/?username=jkgulay&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=apprentice" />
+  <!-- Header Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jun%20Kyle%20Gulay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;BSIT+Student+at+Caraga+State+University;Passionate+about+Web+Development;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
-</p>
-
-</details>
+  
+  <br><br>
+  
+  <!-- About Section -->
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  
+  ### 🎓 About Me
+  
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
+  - 🌱 Currently pursuing **BSIT** at [Caraga State University](https://www.carsu.edu.ph/)
+  - 💻 Passionate about **Full-Stack Web Development**
+  - 🎯 Focused on creating **efficient, user-friendly applications**
+  - 📚 Always **learning** and **sharing knowledge**
+  - 🚀 **Growth-oriented** and **excellence-driven**
+  - ⚡ Fun fact: I'm obsessed with **continuous improvement**
+  
+  <br clear="both"/>
+  
+  <!-- Connect Section -->
+  ### 🌐 Let's Connect
+  
+  <p align="center">
+    <a href="https://twitter.com/kayelonly">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.facebook.com/Kayel.Gulay">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://www.instagram.com/katzuukii/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:gulayjunkyle@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/jkgulay">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  
+  <!-- Tech Stack -->
+  ### 🛠️ Tech Stack
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma" />
+  </p>
+  
+  <!-- Stats Section -->
+  ### 📊 GitHub Analytics
+  
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkgulay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkgulay&layout=compact&langs_count=8&theme=tokyonight"/>
+  </p>
+  
+  <!-- Streak Stats -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=tokyonight" alt="GitHub Streak"/>
+  </p>
+  
+  <!-- Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  </p>
+  
+  <!-- Trophy Section -->
+  ### 🏆 GitHub Trophies
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jkgulay&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </p>
+  
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jkgulay&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  </p>
+  
+  <!-- Snake Animation -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </p>
+  
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  
+</div>
 
 ---
 
-
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-</p>
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  ### ✨ Show some ❤️ by starring some of the repositories!
+  
+</div>
