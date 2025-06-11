@@ -10,40 +10,49 @@
   
   <br><br>
   
-
   <!-- Personal Info Card -->
   <div align="center">
     <table>
       <tr>
-        <td align="center"> name: Jun Kyle Gulay
-location: Cagayan de Oro, Philippines 🇵🇭
-education: Caraga State University
-degree: Bachelor of Science in Information Technology
-year: 3rd Year
-passion: Creating meaningful digital solutions
-philosophy: "Code with purpose, debug with patience"
-fuel: Coffee ☕ + Curiosity 🔍
-status: Open to collaborate on exciting projects
-    </td>
-  </tr>
-</table>
+        <td align="center">
+          
+  ```yaml
+  name: Jun Kyle Gulay
+  location: Cagayan de Oro, Philippines 🇵🇭
+  education: Caraga State University
+  degree: Bachelor of Science in Information Technology
+  year: 3rd Year
+  passion: Creating meaningful digital solutions
+  philosophy: "Code with purpose, debug with patience"
+  fuel: Coffee ☕ + Curiosity 🔍
+  status: Open to collaborate on exciting projects
+  ```
+          
+        </td>
+      </tr>
+    </table>
   </div>
+  
   <br>
+  
   <!-- About Section -->
-🚀 About My Journey
+  ### 🚀 **About My Journey**
+  
   <div align="center">
-🎯 Current Focus: Mastering full-stack web development
-🌱 Learning: Modern JavaScript frameworks and cloud technologies
-💡 Passionate About: Creating user-centric applications that solve real problems
-🤝 Community: Sharing knowledge and collaborating with fellow developers
-📈 Growth Mindset: Every challenge is an opportunity to level up
-⚡ Fun Fact: I measure my productivity in solved problems, not just lines of code
+    
+  🎯 **Current Focus**: Mastering full-stack web development  
+  🌱 **Learning**: Modern JavaScript frameworks and cloud technologies  
+  💡 **Passionate About**: Creating user-centric applications that solve real problems  
+  🤝 **Community**: Sharing knowledge and collaborating with fellow developers  
+  📈 **Growth Mindset**: Every challenge is an opportunity to level up  
+  ⚡ **Fun Fact**: I measure my productivity in solved problems, not just lines of code
+    
   </div>
+  
   <br>
-  <!-- Connect Section -->
   
   <!-- Connect Section -->
-  ### 🌐 Let's Connect
+  ### 🌐 **Let's Connect**
   
   <p align="center">
     <a href="https://twitter.com/kayelonly">
@@ -64,14 +73,14 @@ status: Open to collaborate on exciting projects
   </p>
   
   <!-- Tech Stack -->
-  ### 🛠️ Tech Stack
+  ### 🛠️ **Tech Stack**
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma" />
   </p>
   
   <!-- Stats Section -->
-  ### 📊 GitHub Analytics
+  ### 📊 **GitHub Analytics**
   
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkgulay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -89,20 +98,20 @@ status: Open to collaborate on exciting projects
   </p>
   
   <!-- Trophy Section -->
-  ### 🏆 GitHub Trophies
+  ### 🏆 **GitHub Trophies**
   
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jkgulay&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </p>
   
-  <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jkgulay&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  </p>
-  
   <!-- Snake Animation -->
   <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </p>
+  
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jkgulay&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   </p>
   
   <!-- Footer -->
@@ -114,9 +123,9 @@ status: Open to collaborate on exciting projects
 
 <div align="center">
   
-  ### 💭 Random Dev Quote
+  ### 💭 **Random Dev Quote**
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ### ✨ Show some ❤️ by starring some of the repositories!
+  ### ✨ **Show some ❤️ by starring some of the repositories!**
   
 </div>
