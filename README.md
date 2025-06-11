@@ -10,14 +10,11 @@
   
   <br><br>
   
-  <!-- Personal Card -->
+  <!-- Personal Info Card -->
   <div align="center">
     <table>
       <tr>
-        <td align="center" width="50%">
-          <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Coding Journey" width="300"/>
-        </td>
-        <td align="center" width="50%">
+        <td align="center">
           
   ```yaml
   name: Jun Kyle Gulay
@@ -28,6 +25,7 @@
   passion: Creating meaningful digital solutions
   philosophy: "Code with purpose, debug with patience"
   fuel: Coffee ☕ + Curiosity 🔍
+  status: Open to collaborate on exciting projects
   ```
           
         </td>
@@ -37,19 +35,21 @@
   
   <br>
   
-  <!-- About Section with Visual -->
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  
+  <!-- About Section -->
   ### 🚀 **About My Journey**
   
-  - 🎯 **Current Focus**: Mastering full-stack web development
-  - 🌱 **Learning**: Modern JavaScript frameworks and cloud technologies  
-  - 💡 **Passionate About**: Creating user-centric applications that solve real problems
-  - 🤝 **Community**: Sharing knowledge and collaborating with fellow developers
-  - 📈 **Growth Mindset**: Every challenge is an opportunity to level up
-  - ⚡ **Fun Fact**: I measure my productivity in solved problems, not just lines of code
+  <div align="center">
+    
+  🎯 **Current Focus**: Mastering full-stack web development  
+  🌱 **Learning**: Modern JavaScript frameworks and cloud technologies  
+  💡 **Passionate About**: Creating user-centric applications that solve real problems  
+  🤝 **Community**: Sharing knowledge and collaborating with fellow developers  
+  📈 **Growth Mindset**: Every challenge is an opportunity to level up  
+  ⚡ **Fun Fact**: I measure my productivity in solved problems, not just lines of code
+    
+  </div>
   
-  <br clear="both"/>
+  <br>
   
   <!-- Connect Section -->
   ### 🌐 **Let's Connect & Collaborate**
@@ -75,17 +75,17 @@
   <table align="center">
     <tr>
       <td align="center" width="33%">
-        <h4>Frontend</h4>
+        <h4>🎨 Frontend</h4>
         <img src="https://skillicons.dev/icons?i=js,react,html,css" /><br>
         <em>Crafting user experiences</em>
       </td>
       <td align="center" width="33%">
-        <h4>Backend</h4>
+        <h4>⚙️ Backend</h4>
         <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql" /><br>
         <em>Building robust systems</em>
       </td>
       <td align="center" width="33%">
-        <h4>Tools & More</h4>
+        <h4>🔧 Tools & More</h4>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br>
         <em>Optimizing workflow</em>
       </td>
@@ -93,6 +93,24 @@
   </table>
   
   <br>
+  
+  <!-- Current Projects Section -->
+  ### 🎯 **What I'm Working On**
+  
+  <div align="center">
+    
+  ```javascript
+  const currentFocus = {
+    learning: ["Next.js", "TypeScript", "Cloud Architecture"],
+    building: ["Personal Portfolio", "Web Applications", "Open Source Contributions"],
+    exploring: ["AI Integration", "Mobile Development", "DevOps Practices"],
+    goal: "Becoming a well-rounded full-stack developer"
+  };
+  
+  // Always evolving, always growing 🚀
+  ```
+    
+  </div>
   
   <!-- Unique Stats Section -->
   ### 📊 **Development Analytics**
@@ -140,20 +158,6 @@
   </p>
   
   </details>
-  
-  <!-- Current Projects Section -->
-  ### 🎯 **What I'm Working On**
-  
-  ```javascript
-  const currentFocus = {
-    learning: ["Next.js", "TypeScript", "Cloud Architecture"],
-    building: ["Personal Portfolio", "Web Applications", "Open Source Contributions"],
-    exploring: ["AI Integration", "Mobile Development", "DevOps Practices"],
-    goal: "Becoming a well-rounded full-stack developer"
-  };
-  
-  // Always evolving, always growing 🚀
-  ```
   
   <!-- Profile Views -->
   <p align="center">
