@@ -15,6 +15,12 @@
   
   ### 🎓 About Me
   
+
+  <br>
+  <!-- Player Stats Card -->
+  <table align="center">
+  <tr>
+  <td>
 ╔═══════════════════════════════════╗
 ║           PLAYER STATS            ║
 ╠═══════════════════════════════════╣
@@ -31,15 +37,43 @@
   </table>
   <!-- Mario Gameplay Section -->
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600">
+🎮 GAME STORY MODE 🎮
+  <img align="right" alt="Coding Adventure" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+javascript// 🎮 The Developer's Quest
+class DeveloperHero {
+  constructor() {
+    this.name = "Jun Kyle Gulay";
+    this.level = "3rd Year BSIT";
+    this.hp = "∞ (Powered by Coffee)";
+    this.mp = "Unlimited Creativity";
+    this.location = "Caraga State University";
+    this.mission = "Master Full Stack Development";
+  }
   
-  - 🌱 Currently pursuing **BSIT** at [Caraga State University](https://www.carsu.edu.ph/)
-  - 💻 Passionate about **Full-Stack Web Development**
-  - 🎯 Focused on creating **efficient, user-friendly applications**
-  - 📚 Always **learning** and **sharing knowledge**
-  - 🚀 **Growth-oriented** and **excellence-driven**
-  - ⚡ Fun fact: I'm obsessed with **continuous improvement**
+  // 🚀 Special Abilities
+  getSkills() {
+    return [
+      "🔥 Code Crafting",
+      "⚡ Bug Debugging", 
+      "🛡️ Problem Solving",
+      "💎 User Experience Magic",
+      "🎯 Algorithm Mastery"
+    ];
+  }
   
-  <br clear="both"/>
+  // 🏆 Current Quests
+  activeQuests() {
+    return [
+      "📚 Learning new frameworks",
+      "🌱 Growing GitHub garden", 
+      "🤝 Contributing to open source",
+      "💪 Building epic applications"
+    ];
+  }
+}
+
+const hero = new DeveloperHero();
+hero.startAdventure(); // 🎮 Game On!
   
   <!-- Connect Section -->
   ### 🌐 Let's Connect
