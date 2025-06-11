@@ -10,13 +10,12 @@
   
   <br><br>
   
-  <!-- About Section -->
+
   <!-- Personal Info Card -->
   <div align="center">
     <table>
       <tr>
-        <td align="center">
-yamlname: Jun Kyle Gulay
+        <td align="center"> name: Jun Kyle Gulay
 location: Cagayan de Oro, Philippines 🇵🇭
 education: Caraga State University
 degree: Bachelor of Science in Information Technology
