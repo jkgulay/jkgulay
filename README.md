@@ -9,7 +9,24 @@
   </a>
   
   <br><br>
-  
+  <!-- About Me Section Here -->
+
+
+<p>
+  <em>
+    I am a 3rd-year undergraduate from <a href="https://www.carsu.edu.ph/"><b>Caraga State University</b></a>.  
+    I’m passionate about full-stack web development and love creating efficient, user-friendly applications 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. 
+    I enjoy sharing my knowledge and learning from others 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">. 
+    I am a person who is <b>obsessed</b> with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
+    <b>grow</b> 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
+    <b>excel</b> 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
+  </em>  
+</p>
+
   
   <!-- Connect Section -->
   ### 🌐 **Let's Connect**
