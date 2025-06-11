@@ -15,7 +15,22 @@
   
   ### 🎓 About Me
   
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+╔═══════════════════════════════════╗
+║           PLAYER STATS            ║
+╠═══════════════════════════════════╣
+║ 👤 Player: Jun Kyle Gulay         ║
+║ 🎓 Guild: Caraga State University ║
+║ 🌍 Server: Cagayan de Oro, PH     ║
+║ ⚡ Level: 3rd Year BSIT           ║
+║ 🎯 Class: Full Stack Developer    ║
+║ 💪 Power: Coffee → Code           ║
+║ 🏆 Achievement: Bug Slayer        ║
+╚═══════════════════════════════════╝
+  </td>
+  </tr>
+  </table>
+  <!-- Mario Gameplay Section -->
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600">
   
   - 🌱 Currently pursuing **BSIT** at [Caraga State University](https://www.carsu.edu.ph/)
   - 💻 Passionate about **Full-Stack Web Development**
