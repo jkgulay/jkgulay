@@ -10,46 +10,6 @@
   
   <br><br>
   
-  <!-- Personal Info Card -->
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          
-  ```yaml
-  name: Jun Kyle Gulay
-  location: Cagayan de Oro, Philippines 🇵🇭
-  education: Caraga State University
-  degree: Bachelor of Science in Information Technology
-  year: 3rd Year
-  passion: Creating meaningful digital solutions
-  philosophy: "Code with purpose, debug with patience"
-  fuel: Coffee ☕ + Curiosity 🔍
-  status: Open to collaborate on exciting projects
-  ```
-          
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <br>
-  
-  <!-- About Section -->
-  ### 🚀 **About My Journey**
-  
-  <div align="center">
-    
-  🎯 **Current Focus**: Mastering full-stack web development  
-  🌱 **Learning**: Modern JavaScript frameworks and cloud technologies  
-  💡 **Passionate About**: Creating user-centric applications that solve real problems  
-  🤝 **Community**: Sharing knowledge and collaborating with fellow developers  
-  📈 **Growth Mindset**: Every challenge is an opportunity to level up  
-  ⚡ **Fun Fact**: I measure my productivity in solved problems, not just lines of code
-    
-  </div>
-  
-  <br>
   
   <!-- Connect Section -->
   ### 🌐 **Let's Connect**
