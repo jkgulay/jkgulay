@@ -5,9 +5,7 @@
   
   <br><br>
   <!-- About Me Section Here -->
->
 
-  
   <!-- Connect Section -->
   ### 🌐 **Let's Connect**
   
@@ -36,13 +34,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma" />
   </p>
   
-  <!-- Stats Section -->
-  ### 📊 **GitHub Analytics**
-  
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkgulay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkgulay&layout=compact&langs_count=8&theme=tokyonight"/>
-  </p>
   
   <!-- Streak Stats -->
   <p align="center">
