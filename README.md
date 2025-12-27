@@ -3,29 +3,9 @@
   <!-- Header Section -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jun%20Kyle%20Gulay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;BSIT+Student+at+Caraga+State+University;Passionate+about+Web+Development;Always+learning+new+technologies" alt="Typing SVG" />
-  </a>
-  
   <br><br>
   <!-- About Me Section Here -->
-
-
-<p>
-  <em>
-    I am a Information Technology student from <a href="https://www.carsu.edu.ph/"><b>Caraga State University</b></a>.  
-    I’m passionate about full-stack web development and love creating efficient, user-friendly applications 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. 
-    I enjoy sharing my knowledge and learning from others 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">. 
-    I am a person who is <b>obsessed</b> with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
-    <b>excel</b> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
-  </em>  
-</p>
+>
 
   
   <!-- Connect Section -->
@@ -74,35 +54,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
   </p>
   
-  <!-- Trophy Section -->
-  ### 🏆 **GitHub Trophies**
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jkgulay&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  </p>
-  
-  <!-- Snake Animation -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </p>
-  
-  <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jkgulay&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  </p>
-  
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
+ 
 </div>
 
 ---
 
-<div align="center">
-  
-  ### 💭 **Random Dev Quote**
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ### ✨ **Show some ❤️ by starring some of the repositories!**
-  
-</div>
