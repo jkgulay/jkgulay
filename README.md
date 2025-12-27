@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jun%20Kyle%20Gulay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kayel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
   <br><br>
   <!-- About Me Section Here -->
