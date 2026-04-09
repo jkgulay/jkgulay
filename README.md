@@ -19,11 +19,7 @@
 
 ### `Metrics`
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jkgulay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=888888&icon_color=555555&text_color=666666&hide_title=false&rank_icon=percentile" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkgulay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=888888&text_color=666666" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=666666&currStreakNum=888888&sideNums=666666&currStreakLabel=555555&sideLabels=444444&dates=444444" width="50%" />
