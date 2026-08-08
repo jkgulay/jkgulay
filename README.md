@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=110&section=header" width="100%"/>
 
-<h2>Hi, I'm Gummy 👋</h2>
-<sub><code>SOFTWARE DEVELOPER · FULL-STACK BUILDER</code></sub>
+
 
 <br/><br/>
 
@@ -15,11 +14,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>─────────────────────────────</sub>
-</div>
 
 <br/>
 
