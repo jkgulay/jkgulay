@@ -8,16 +8,6 @@
 
 <br/>
 
-## `Currently Building`
-
-| Project | Stack | Focus |
-|---|---|---|
-| **Lifeline** | Flutter / Dart · BLE Mesh | Offline-first emergency mesh communication for Android |
-| **HIS Lab Upload Module** | React · MySQL · Supabase | Clinical lab upload workflow with IHOMIS integration |
-| **Primebase System** | MERN Stack | Project mgmt, procurement, payroll & supplies for a construction firm |
-
-<br/>
-
 ## `Stack`
 
 <div align="center">
