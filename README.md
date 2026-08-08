@@ -1,9 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&fontColor=ECECEC&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=13&descColor=6b6b6b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=110&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1500&color=707070&center=true&vCenter=true&width=440&lines=Turning+logic+into+lived+experience.;Writing+code+that+outlasts+the+deadline.;Building+things+that+matter." alt="Typing SVG" />
+<h2>Hi, I'm Gummy 👋</h2>
+<sub><code>SOFTWARE DEVELOPER · FULL-STACK BUILDER</code></sub>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1500&color=808080&center=true&vCenter=true&width=460&lines=Turning+logic+into+lived+experience.;Writing+code+that+outlasts+the+deadline.;Building+things+that+matter." alt="Typing SVG" />
+
+<br/>
+
+<sub><code>PH · Student & Developer</code></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>─────────────────────────────</sub>
 </div>
 
 <br/>
