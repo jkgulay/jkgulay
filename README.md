@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=header" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1500&color=808080&center=true&vCenter=true&width=460&lines=Turning+logic+into+lived+experience.;Writing+code+that+outlasts+the+deadline.;Building+things+that+matter." alt="Typing SVG" />
