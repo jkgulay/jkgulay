@@ -4,7 +4,7 @@
 
 <br/>
 
-<sub><code>PH · Student & Developer</code></sub>
+<sub><code>PH · Full Stack Developer</code></sub>
 
 </div>
 
