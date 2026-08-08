@@ -1,57 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=100&section=header" width="100%"/>
 
-<h2>Hi, I'm Gummy 👋</h2>
-<sub><code>SOFTWARE DEVELOPER · FULL-STACK BUILDER</code></sub>
+# Hi, I'm Gummy 👋
+
+**Software Developer · Full-Stack Builder**
+
+`Building practical software with clean, modern technologies.`
+
+<br/>
+
+<sub>📍 Philippines · BS Information Technology Graduate</sub>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1500&color=808080&center=true&vCenter=true&width=460&lines=Turning+logic+into+lived+experience.;Writing+code+that+outlasts+the+deadline.;Building+things+that+matter." alt="Typing SVG" />
-
-<br/>
-
-<sub><code>PH · Student & Developer</code></sub>
+<a href="https://github.com/jkgulay">
+  <img src="https://img.shields.io/github/followers/jkgulay?style=flat&label=Followers&color=181818" />
+</a>
+<a href="https://github.com/jkgulay?tab=repositories">
+  <img src="https://img.shields.io/github/stars/jkgulay?style=flat&label=Stars&color=181818" />
+</a>
 
 </div>
 
-<br/>
+---
+
+## About
+
+Software developer focused on **full-stack applications, mobile development, and practical systems**.
+
+I enjoy turning ideas into reliable software—from web applications and backend systems to offline-first mobile solutions.
+
+Currently interested in **software engineering, networking, and cybersecurity**.
+
+---
+
+## What I Do
 
 <div align="center">
-<sub>─────────────────────────────</sub>
+
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Full-Stack Development** | Modern web applications & backend systems    |
+| **Mobile Development**     | Flutter & offline-first applications         |
+| **Database Systems**       | PostgreSQL, Supabase, Firebase & SQLite      |
+| **System Development**     | Practical solutions for real-world workflows |
+| **Networking**             | Peer-to-peer & offline communication systems |
+
 </div>
 
-<br/>
+---
 
-## `Stack`
+## Tech Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=888888)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=888888)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=888888)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=888888)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=888888)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=888888)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,dart,python,html,css" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=vue,react,flutter,bootstrap,vuetify" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgresql,sqlite" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 
 </div>
 
-<br/>
-
-## `Activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&bg_color=0d0d0d&color=555555&line=333333&point=999999&area=true&area_color=161616&hide_border=true&radius=4" width="95%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=161616&ring=555555&fire=777777&currStreakNum=999999&sideNums=777777&currStreakLabel=666666&sideLabels=555555&dates=555555&border_radius=4" width="48%" />
-</p>
-
-<br/>
+---
 
 <div align="center">
-  <sub><code>Built deliberately. Shipped carefully. Always improving.</code></sub>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" width="100%"/>
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&bg_color=0d0d0d&color=888888&line=444444&point=aaaaaa&area=true&area_color=161616&hide_border=true&radius=4" width="95%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=dark&hide_border=true&background=0d0d0d&stroke=161616&ring=666666&fire=888888&currStreakNum=aaaaaa&sideNums=888888&currStreakLabel=777777&sideLabels=666666&dates=666666&border_radius=4" width="48%" />
+
+<br/><br/>
+
+<sub><code>Build deliberately. Ship carefully. Keep improving.</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=70&section=footer" width="100%"/>
+
+</div>
