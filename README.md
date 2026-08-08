@@ -1,35 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=header&text=Gummy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=110&section=header" width="100%"/>
 
-<code>SOFTWARE&nbsp;DEVELOPER</code> · <code>FULL-STACK</code> · <code>MOBILE</code> · <code>SYSTEMS</code>
+<h2>Hi, I'm Gummy 👋</h2>
+<sub><code>SOFTWARE DEVELOPER · FULL-STACK BUILDER</code></sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=1500&color=808080&center=true&vCenter=true&width=460&lines=Turning+logic+into+lived+experience.;Writing+code+that+outlasts+the+deadline.;Building+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/jkgulay">
-<img src="https://img.shields.io/github/followers/jkgulay?style=flat-square&color=111111&labelColor=000000&logo=github&logoColor=ffffff&label=FOLLOWERS"/>
-</a>&nbsp;
-<a href="https://github.com/jkgulay?tab=repositories">
-<img src="https://img.shields.io/github/stars/jkgulay?style=flat-square&color=111111&labelColor=000000&logo=github&logoColor=ffffff&label=STARS"/>
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,dart,python,vue,react,flutter,nodejs,postgres,supabase,firebase,sqlite,git,github,vscode,androidstudio,figma" height="32"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jkgulay&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&hide_title=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&hide_border=true&background=000000&stroke=151515&ring=666666&fire=888888&currStreakNum=ffffff&sideNums=888888&currStreakLabel=666666&sideLabels=555555&dates=444444&border_radius=4" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&bg_color=000000&color=666666&line=444444&point=aaaaaa&area=true&area_color=111111&hide_border=true&radius=3" width="92%"/>
-
-<br/><br/>
-
-<sub><code>BUILD · SHIP · IMPROVE</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=60&section=footer" width="100%"/>
+<sub><code>PH · Student & Developer</code></sub>
 
 </div>
+
+<br/>
+
+<div align="center">
+<sub>─────────────────────────────</sub>
+</div>
+
+<br/>
+
+## `Stack`
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=888888)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=888888)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=888888)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=888888)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=888888)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=888888)
+
+</div>
+
+<br/>
+
+## `Activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&bg_color=0d0d0d&color=555555&line=333333&point=999999&area=true&area_color=161616&hide_border=true&radius=4" width="95%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=161616&ring=555555&fire=777777&currStreakNum=999999&sideNums=777777&currStreakLabel=666666&sideLabels=555555&dates=555555&border_radius=4" width="48%" />
+</p>
+
+<br/>
+
+<div align="center">
+  <sub><code>Built deliberately. Shipped carefully. Always improving.</code></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" width="100%"/>
