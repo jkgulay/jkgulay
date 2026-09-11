@@ -30,9 +30,7 @@
 
 ## `Activity`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkgulay&bg_color=0d0d0d&color=555555&line=333333&point=999999&area=true&area_color=161616&hide_border=true&radius=4" width="95%" alt="Activity Graph"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkgulay&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=161616&ring=555555&fire=777777&currStreakNum=999999&sideNums=777777&currStreakLabel=666666&sideLabels=555555&dates=555555&border_radius=4" width="48%" />
